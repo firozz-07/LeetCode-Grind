@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/firozz07/LeetCode-Grind/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/firozz07/LeetCode-Grind/tree/master/0027-remove-element) |
 | [0485-max-consecutive-ones](https://github.com/firozz07/LeetCode-Grind/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/firozz07/LeetCode-Grind/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/firozz07/LeetCode-Grind/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/firozz07/LeetCode-Grind/tree/master/0009-palindrome-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/firozz07/LeetCode-Grind/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/firozz07/LeetCode-Grind/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->

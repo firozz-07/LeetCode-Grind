@@ -36,9 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/firozz07/LeetCode-Grind/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/firozz07/LeetCode-Grind/tree/master/0852-peak-index-in-a-mountain-array) |
 ## String
-|  |
-| ------- |
-| [0242-valid-anagram](https://github.com/firozz07/LeetCode-Grind/tree/master/0242-valid-anagram) |
+|  |id-anagram](https://github.com/firozz07/LeetCode-Grind/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
